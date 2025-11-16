@@ -1,10 +1,10 @@
 import React from 'react';
 import "react-responsive-carousel/lib/styles/carousel.min.css"; // requires a loader
 import { Carousel } from 'react-responsive-carousel';
-import pic1 from '../assets/pic1.jpg';
-import pic2 from '../assets/pic2.jpg';
-import pic3 from '../assets/piic3.jpg';
-import pic5 from '../assets/pic5.jpg';
+import pic1 from '../assets/pic1.JPG';
+import pic2 from '../assets/pic2.JPG';
+import pic3 from '../assets/piic3.JPG';
+import pic5 from '../assets/pic5.JPG';
 import Navbar from '../Components/Navbar';
 
 const DemoCarousel = () => {

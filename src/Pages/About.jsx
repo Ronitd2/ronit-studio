@@ -1,7 +1,6 @@
 import React from "react";
 import dot from "../assets/more.png";
 import line from "../assets/cable.png";
-import user from "../assets/user.png";
 import owner from "../assets/Baba.jpg";
 import koushikda from "../assets/koushik.jpeg";
 import koushikda2 from "../assets/koushik-video.jpg";

@@ -1,6 +1,6 @@
 import React from "react";
 import riceceremony from "../assets/rice-ceremony/rc1.jpg";
-import gallerypic from "../assets/gallerypic1.jpg"
+import gallerypic from "../assets/gallerypic1.JPG"
 import Navbar from "../Components/Navbar";
 import Footer from "../Components/Footer";
 import { Link, NavLink } from "react-router-dom";
