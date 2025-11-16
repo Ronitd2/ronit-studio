@@ -4,7 +4,7 @@ import Navbar from "../Components/Navbar";
 import Footer from "../Components/Footer";
 import dot from "../assets/more.png";
 import line from "../assets/cable.png";
-import filmpiic1 from "../assets/filmpic1.jpg";
+import filmpiic1 from "../assets/filmpic1.JPG";
 import filmpiic2 from "../assets/filmpic2.jpg";
 import filmpiic3 from "../assets/filmpic3.jpg";
 import filmpiic4 from "../assets/filmpic4.jpg";
