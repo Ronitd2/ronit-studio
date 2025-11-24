@@ -82,7 +82,7 @@ export default function About()
                                     <AnimationOnScroll animateIn="animate-scale-up-center">
                                     <div className="p-3 bg-white">
                                         <img src={rytam} className="h-[160px] w-[130px] md:h-[210px] md:w-[180px] rounded-xl md:rounded-lg"></img>
-                                        <p className="mt-2 text-center text-black"><span className="text-teal-500 mr-1">|</span>Rytam <span className="text-teal-500 ml-1">|</span></p>
+                                        <p className="mt-2 text-center text-black"><span className="text-teal-500 mr-1">|</span>Ritam Sarkar <span className="text-teal-500 ml-1">|</span></p>
                                     </div>
                                     </AnimationOnScroll>
                                     {/* <AnimationOnScroll animateIn="animate-scale-up-center">
