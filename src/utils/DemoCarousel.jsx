@@ -9,7 +9,7 @@ import Navbar from '../Components/Navbar';
 
 const DemoCarousel = () => {
     const slideStyle = {
-        height: '700px', // Adjust the height as needed
+        height: '660px', // Adjust the height as needed
         width: '100vw',
     };
 
@@ -29,16 +29,16 @@ const DemoCarousel = () => {
                 interval={2000}
             >
                 <div style={slideStyle}>
-                    <img src={pic3} alt="Slide 3" className="w-full h-[90%] md:h-full object-cover sm:object-center object-[35%_80%]" />
+                    <img src={pic3} alt="Slide 3" className="w-full h-full object-cover sm:object-center object-[35%_80%]" />
                 </div>
                 <div style={slideStyle}>
-                    <img src={pic1} alt="Slide 1" className="w-full h-[90%] md:h-full object-cover object-center" />
+                    <img src={pic1} alt="Slide 1" className="w-full h-full object-cover object-center" />
                 </div>
                 <div style={slideStyle}>
-                    <img src={pic2} alt="Slide 2" className="w-full h-[90%] md:h-full object-cover " />
+                    <img src={pic2} alt="Slide 2" className="w-full h-full object-cover " />
                 </div>
                 <div style={slideStyle}>
-                    <img src={pic5} alt="Slide 2" className="w-full h-[90%] md:h-full object-cover md:object-center object-[80%_80%]" />
+                    <img src={pic5} alt="Slide 2" className="w-full h-full object-cover md:object-center object-[80%_80%]" />
                 </div>
             </Carousel>
         </div>
